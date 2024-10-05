@@ -1,0 +1,55 @@
+6
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 
+3 0 0 0 0 0 0 0 0 0 3 
+3 3 0 0 0 0 0 0 0 3 3 
+3 3 3 0 0 0 0 0 3 3 3 
+3 3 3 3 0 0 0 3 3 3 3 
+3 3 3 3 3 0 3 3 3 3 3 
+Player 1 Type: ai
+Player 2 Type: ai
+{"player": 1, "move": [1, 6]}
+{"player": 2, "move": [5, 5]}
+{"player": 1, "move": [0, 1]}
+{"player": 2, "move": [0, 5]}
+{"player": 1, "move": [1, 4]}
+{"player": 2, "move": [5, 0]}
+{"player": 1, "move": [2, 5]}
+{"player": 2, "move": [5, 10]}
+{"player": 1, "move": [2, 1]}
+{"player": 2, "move": [10, 5]}
+{"player": 1, "move": [0, 3]}
+{"player": 2, "move": [4, 5]}
+{"player": 1, "move": [1, 2]}
+{"player": 2, "move": [5, 4]}
+{"player": 1, "move": [2, 4]}
+{"player": 2, "move": [5, 6]}
+{"player": 1, "move": [0, 2]}
+{"player": 2, "move": [2, 3]}
+{"player": 1, "move": [1, 7]}
+{"player": 2, "move": [6, 5]}
+{"player": 1, "move": [1, 3]}
+{"player": 2, "move": [3, 5]}
+{"player": 1, "move": [2, 6]}
+{"player": 2, "move": [4, 4]}
+{"player": 1, "move": [4, 6]}
+{"player": 2, "move": [5, 3]}
+{"player": 1, "move": [2, 2]}
+{"player": 2, "move": [5, 7]}
+{"player": 1, "move": [0, 6]}
+{"player": 2, "move": [1, 0]}
+{"player": 1, "move": [1, 1]}
+{"player": 2, "move": [2, 0]}
+{"player": 1, "move": [1, 5]}
+{"player": 2, "move": [0, 4]}
+{"player": 1, "move": "TLE"}
+Game Over
+Winner: Player 2
+Structure Formed: None
+Winning Path: []
+Player 1 Time Remaining: 0.0 s
+Player 2 Time Remaining: 162.1043243408203 s
